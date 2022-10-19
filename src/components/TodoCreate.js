@@ -4,7 +4,7 @@ import { MdAdd } from 'react-icons/md';
 import { useTodoDispatch, useTodoNextId } from './TodoState';
 
 const CircleButton=styled.button`
-    background:#0371AC;
+    background: #38d9a9;
     color:#fff;
 
     //마우스 오버했을 때
